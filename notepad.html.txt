@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Yash's website</title>
+</head>
+<body>
+    <!-- This heading change will be in future -->
+    <h1>This is heading</h1>
+    <p>This is a paragraph</p>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione nulla, reiciendis nam facere beatae blanditiis ut aliquid, consequuntur aliquam consectetur quisquam nihil laudantium unde distinctio labore quidem aut corrupti. Rerum?</p>
+</body>
+</html>
